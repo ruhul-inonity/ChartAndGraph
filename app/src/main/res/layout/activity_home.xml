@@ -31,4 +31,10 @@
         android:layout_height="wrap_content"
         android:onClick="animateHorizontalProgressBar"
         android:id="@+id/button3" />
+    <Button
+        android:text="CombinedChartActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="combinedChartActivity"
+        android:id="@+id/button4" />
 </LinearLayout>
